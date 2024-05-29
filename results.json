@@ -1,0 +1,8 @@
+{'Learning Rate': 0.01, 'Batch Size': 16, 'Epochs': 100, 'Optimizer': 'Adam', 'Test Loss': 0.3950141966342926}
+{'Learning Rate': 0.01, 'Batch Size': 16, 'Epochs': 200, 'Optimizer': 'Adam', 'Test Loss': 0.4261845648288727}
+{'Learning Rate': 0.01, 'Batch Size': 32, 'Epochs': 100, 'Optimizer': 'Adam', 'Test Loss': 0.42075690627098083}
+{'Learning Rate': 0.01, 'Batch Size': 32, 'Epochs': 200, 'Optimizer': 'Adam', 'Test Loss': 0.4398233890533447}
+{'Learning Rate': 0.001, 'Batch Size': 16, 'Epochs': 100, 'Optimizer': 'Adam', 'Test Loss': 0.4663821756839752}
+{'Learning Rate': 0.001, 'Batch Size': 16, 'Epochs': 200, 'Optimizer': 'Adam', 'Test Loss': 0.44370037317276}
+{'Learning Rate': 0.001, 'Batch Size': 32, 'Epochs': 100, 'Optimizer': 'Adam', 'Test Loss': 0.43857458233833313}
+{'Learning Rate': 0.001, 'Batch Size': 32, 'Epochs': 200, 'Optimizer': 'Adam', 'Test Loss': 0.5112519264221191}
